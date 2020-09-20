@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 1: September 20, 2020
+
+**Today's Progress**: Practiced C++ on HackerRank and started learning HTML5 in freeCodeCamp's tutorial.
+
+**Thoughts**: 😊 Good time as I am doing something. Do all the tasks that are to be done.
+
+**Link(s) to work**:  
+- [Twitter Link](https://twitter.com/sagar_mittal5/status/1307748469319245824)
+- [freeCodecamp Proflle](https://www.freecodecamp.org/sagarmittal)
+
+---
+
 ### Day 0: September 19, 2020
 
 **Today's Progress**: All things set to start
