@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 2: September 21, 2020
+
+**Today's Progress**: Completed HTNL and now start learing CSS from freeCodeCamp
+
+**Thoughts**: Not devote much amount of time, will do it better tomorrow
+
+**Link(s) to work**: [Twitter Link](https://twitter.com/sagar_mittal5/status/1308110535980769280)
+
+---
+
 ### Day 1: September 20, 2020
 
 **Today's Progress**: Practiced C++ on HackerRank and started learning HTML5 in freeCodeCamp's tutorial.
