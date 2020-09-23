@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 4: September 23, 2020
+
+**Today's Progress**: Start Applied Visual Design and some changes to portfolio website
+
+**Thoughts**: Still fucked up, can't devote much as I wanted due to more sleep. Do good tomorrow
+
+**Link(s) to work**: None today
+
+---
+
 ### Day 3: September 22, 2020
 
 **Today's Progress**: Just about to finish Basic CSS from freeCodeCamp. Also make a course website for DSA
