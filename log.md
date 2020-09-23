@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: September 22, 2020
+
+**Today's Progress**: Just about to finish Basic CSS from freeCodeCamp. Also make a course website for DSA
+
+**Thoughts**: I can't do good in Coding, I tried on HackerRank but can't solve enough.
+
+**Link(s) to work**: [Github Project Link](https://github.com/sagarmittal1/3-DSA)
+
+---
+
 ### Day 2: September 21, 2020
 
 **Today's Progress**: Completed HTNL and now start learing CSS from freeCodeCamp
