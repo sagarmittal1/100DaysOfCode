@@ -1,5 +1,26 @@
 # 100 Days Of Code - Log
 
+### Day 6: September 25, 2020
+
+**Today's Progress**: Learn common things of Visual Design.
+
+**Thoughts**: Good day, do great & we all know to wait for some time to see results.
+
+**Link(s) to work**: [freeCodeCamp Proflle](https://www.freecodecamp.org/sagarmittal)
+ 
+---
+
+### Day 5: September 24, 2020
+
+**Today's Progress**: Made a website using Jekyll for my subject course to help my classmates & teacher.
+
+**Thoughts**: Made it, lookimg great in mobile, wrote a mail to teacher regarding this.
+
+**Link(s) to work**: [GitHub Repo](https://github.com/sagarmittal1/3-DSA)
+                    - [Website URL](https://t.co/XTXEtd9nKz?amp=1)
+ 
+---
+
 ### Day 4: September 23, 2020
 
 **Today's Progress**: Start Applied Visual Design and some changes to portfolio website
