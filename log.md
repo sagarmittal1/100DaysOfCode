@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log
 
+### Day 9: September 28, 2020
+
+**Today's Progress**: Matrix & multidimensional arrays
+
+**Thoughts**: College Lab Work to do, so, learn them
+
+**Link(s) to work**: [freeCodeCamp Proflle](https://www.freecodecamp.org/sagarmittal)
+ 
+---
+
+### Day 8: September 27, 2020
+
+**Today's Progress**: Not learn much
+
+**Thoughts**: Try to solve some problems.
+
+**Link(s) to work**: [freeCodeCamp Proflle](https://www.freecodecamp.org/sagarmittal)
+ 
+---
+
+### Day 7: September 26, 2020
+
+**Today's Progress**: Basic CSS
+
+**Thoughts**: Not learn today much bcoz some procastination
+
+**Link(s) to work**: [freeCodeCamp Proflle](https://www.freecodecamp.org/sagarmittal)
+ 
+---
+
 ### Day 6: September 25, 2020
 
 **Today's Progress**: Learn common things of Visual Design.
