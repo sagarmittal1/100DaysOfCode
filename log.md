@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 10 - 13: October 3, 2020
+
+**Today's Progress**: Fucked up things due to some assignments or many more
+
+**Thoughts**: College Lab Work to do, so, learn them, I will try to learn STL complete in this week
+
+**Link(s) to work**: Nothing
+ 
+---
+
 ### Day 9: September 28, 2020
 
 **Today's Progress**: Matrix & multidimensional arrays
